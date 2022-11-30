@@ -7,8 +7,8 @@
 * Visualized **natural language processing** from Airbnb listing titles using the **nltk** library
 * Organized analysis with written report as a **Jupyter Notebook** or HTML file
 
-![](https://github.com/imadahmad97/Imad-Ahmad/blob/main/images/capetown_covid.png)
-![](https://github.com/imadahmad97/Imad-Ahmad/blob/main/images/wordcloud.png)
+![](https://github.com/imadahmad97/imad-ahmad/blob/main/images/capetown_covid.png)
+![](https://github.com/imadahmad97/imad-ahmad/blob/main/images/wordcloud.png)
 
 # [Airbnb Statistical Analysis](https://github.com/imadahmad97/Statistical-Analysis-of-Airbnb-Data)
 
@@ -18,8 +18,8 @@
 * Utilized multiple statistical distributions, such as the normal distribution, t-distribution, Poisson distribution, etc.
 * Organized analysis with written report as a PDF
 
-![](https://github.com/imadahmad97/Imad-Ahmad/blob/main/images/boxplots.png)
-![](https://github.com/imadahmad97/Imad-Ahmad/blob/main/images/doublebar.png)
+![](https://github.com/imadahmad97/imad-ahmad/blob/main/images/boxplots.png)
+![](https://github.com/imadahmad97/imad-ahmad/blob/main/images/doublebar.png)
 
 # [Gender Disparity Amongst Physiology Departments](https://www.cureus.com/articles/46484-sex-disparity-among-faculty-of-physiology-in-north-american-academia-differences-in-scholarly-productivity-and-academic-rank)
 
