@@ -1,5 +1,3 @@
-# Imad Ahmad
-
 # [Airbnb Exploratory Data Analysis](https://github.com/imadahmad97/EDA-of-Airbnb-Data)
 
 * Performed exploratory data analysis on two datasets containing information on Airbnb listings and their reviews 
