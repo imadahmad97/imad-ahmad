@@ -18,6 +18,9 @@
 * Utilized multiple statistical distributions, such as the normal distribution, t-distribution, Poisson distribution, etc.
 * Organized analysis with written report as a PDF
 
+![](https://github.com/imadahmad97/Imad-Ahmad/blob/main/images/boxplots.png)
+![](https://github.com/imadahmad97/Imad-Ahmad/blob/main/images/doublebar.png)
+
 # [Gender Disparity Amongst Physiology Departments](https://www.cureus.com/articles/46484-sex-disparity-among-faculty-of-physiology-in-north-american-academia-differences-in-scholarly-productivity-and-academic-rank)
 
 * Explored if a gender disparty existed in physiology departments throughout North America
